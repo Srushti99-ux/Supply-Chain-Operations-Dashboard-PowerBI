@@ -97,7 +97,6 @@ The dashboard helps to:
 
 1️⃣ Overview Page
 
-### Overview Page
 <p align="center">
   <img src="screenshots/overview.png" width="900">
 </p>
@@ -110,6 +109,8 @@ The dashboard helps to:
 
 * Supplier Profit Margin Analysis
 
+---
+
 2️⃣ Product Page
 
 <p align="center">
@@ -121,6 +122,8 @@ The dashboard helps to:
 * Revenue by Product
 
 * SKU-Level Sales Analysis
+
+---
 
 3️⃣ Supplier Page
 
